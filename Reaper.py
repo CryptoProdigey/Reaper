@@ -1,4 +1,4 @@
-import pyflight
+import pyfiglet
 import sys
 import socket
 from datetime import datetime
